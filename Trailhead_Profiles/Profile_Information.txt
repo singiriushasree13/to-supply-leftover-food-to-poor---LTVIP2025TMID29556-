@@ -35,7 +35,7 @@ LEARNING TRACK - SALESFORCE - DEVELOPER
 TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/xv854z5xcvmocnkhba
 
 PROJECT NAME -TO SUPPLY LEFTOVER FOOD TO POOR
-ORG USERNAME - 
+ORG USERNAME - jinkaladillirani724@agentforce.com
 PASSWORD- Gayatri@123
 
 STUDENT ID - SBAP0029530
@@ -45,5 +45,5 @@ LEARNING TRACK - SALESFORCE - DEVELOPER
 TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/r9yztso2qo6rwm9vqt
 
 PROJECT NAME -TO SUPPLY LEFTOVER FOOD TO POOR
-ORG USERNAME - 
+ORG USERNAME - tanujapamula19307@agentforce.com
 PASSWORD- Gayatri@123
